@@ -1,0 +1,90 @@
+
+
+/*.one img {
+  width: 23%;
+  float: left;
+  margin: 1%;
+}
+
+.one p {
+  width: 23%;
+
+  margin: 1%;
+}
+
+.two img {
+  width: 23%;
+  float: left;
+  margin: 1%;
+}
+.two p {
+  width: 23%;
+
+  margin: 1%;
+}
+
+.three img {
+  width: 23%;
+  float: left;
+  margin: 1%;
+}
+
+.three p {
+  width: 23%;
+
+  margin: 1%;
+}
+
+.four img {
+  width: 23%;
+  float: left;
+  margin: 1%;
+}
+
+.four p {
+  width: 23%;
+
+  margin: 1%;
+} */
+
+p {
+  display: block;
+}
+
+.one img {
+  width: 100%;
+  /* float: left; */
+  margin: 1%;
+  object-fit: cover;
+}
+
+
+
+.two img {
+  width: 100%;
+  /* float: left; */
+  margin: 1%;
+  object-fit: cover;
+}
+
+
+.three img {
+  width: 100%;
+  /* float: left; */
+  margin: 1%;
+  object-fit: cover;
+}
+
+
+
+.four img {
+  width: 100%;
+  /* float: left; */
+  margin: 1%;
+  object-fit: cover;
+}
+
+.one, .two, .three, .four {
+  width: 24%;
+  display: inline-block;
+}
